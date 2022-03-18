@@ -1,6 +1,5 @@
 #OLD VERSIONS OF FILE
-pattern_matrix_guesses.csv
-pattern_matrix_guesses_2.csv
+screenshots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
