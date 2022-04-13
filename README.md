@@ -11,3 +11,5 @@ In this project I take a dive into the [English Stack Exchange](https://english.
 * Clean and analyze the data
 * Visualize any interesting patterns or relationships
 * Quanitfy and find any insight as to why so many people struggle with English
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/english-stack-exchange-analysis/blob/main/EnglishLearningDifficulties.ipynb).
